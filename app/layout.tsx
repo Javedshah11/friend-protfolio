@@ -13,10 +13,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://hisham-khan-engineering.kingdompeople3.chatgpt.site'),
   title: 'Hisham Khan | Electrical & Electronic Engineer',
   description: 'Portfolio of Hisham Khan, an Electrical & Electronic Engineering graduate focused on renewable energy, photovoltaic systems, power electronics and inverter technologies.',
   keywords: ['Electrical Engineer', 'Renewable Energy', 'Power Electronics', 'Solar PV', 'Photovoltaic Inverter'],
   authors: [{ name: 'Hisham Khan' }],
+  alternates: { canonical: '/' },
   robots: { index: true, follow: true },
   openGraph: {
     title: 'Hisham Khan | Electrical & Electronic Engineer',
