@@ -1,4 +1,5 @@
 import { ArrowDown, ArrowRight, ArrowUp, Award, Check, Download, Mail, MapPin, Phone, Zap } from "lucide-react";
+import Image from "next/image";
 import { ContactForm } from "../components/contact-form";
 import { Navigation } from "../components/navigation";
 import { Reveal } from "../components/reveal";
@@ -29,8 +30,11 @@ export default function Home() {
     </section>
 
     <section className="section about-section" id="about"><Reveal><Heading index="01" label="ABOUT" title="Engineering a sustainable future." /></Reveal>
-      <div className="about-grid"><Reveal><p className="lead">Hisham Khan is an Electrical &amp; Electronic Engineering graduate from COMSATS University Islamabad, Abbottabad Campus, with academic and project exposure to renewable-energy systems, photovoltaic power conversion and power electronics.</p><p>His engineering interests center on efficient energy conversion, solar technologies, electrical systems and practical solutions that contribute to a more sustainable energy future.</p></Reveal>
-        <div className="stat-grid">{[["1.5 kW","PV Inverter Project"],["03","Languages"],["Renewable","Energy Focus"],["COMSATS","Engineering Graduate"]].map((x,i)=><Reveal key={x[0]} delay={i*.07} className="stat-card"><strong>{x[0]}</strong><span>{x[1]}</span></Reveal>)}</div>
+      <div className="about-grid">
+        <Reveal className="portrait-card"><Image src="/hisham-khan.jpeg" alt="Hisham Khan, Electrical and Electronic Engineering graduate" width={1247} height={1247} sizes="(max-width: 760px) 100vw, 42vw" priority={false}/><div className="portrait-caption"><span>Hisham Khan</span><small>Electrical &amp; Electronic Engineering</small></div></Reveal>
+        <div className="about-content"><Reveal><p className="lead">Hisham Khan is an Electrical &amp; Electronic Engineering graduate from COMSATS University Islamabad, Abbottabad Campus, with academic and project exposure to renewable-energy systems, photovoltaic power conversion and power electronics.</p><p>His engineering interests center on efficient energy conversion, solar technologies, electrical systems and practical solutions that contribute to a more sustainable energy future.</p></Reveal>
+          <div className="stat-grid">{[["1.5 kW","PV Inverter Project"],["03","Languages"],["Renewable","Energy Focus"],["COMSATS","Engineering Graduate"]].map((x,i)=><Reveal key={x[0]} delay={i*.07} className="stat-card"><strong>{x[0]}</strong><span>{x[1]}</span></Reveal>)}</div>
+        </div>
       </div>
     </section>
 
