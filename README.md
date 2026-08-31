@@ -1,50 +1,37 @@
 <!--
 ===============================================================================
 FRIEND PORTFOLIO
-Modern Personal Portfolio Website
-
-React • JavaScript • Responsive Design • Modern UI
+Personal Portfolio Website of Hashim Khan
 ===============================================================================
 -->
 
 <div align="center">
 
-# 👨‍💻 <FRIEND_NAME> Portfolio
+# 👨‍💻 Hashim Khan
 
-### <PROFESSIONAL_TITLE>
+### Friend Portfolio
+
+### Modern Personal Portfolio Website
 
 <p>
-A modern, responsive personal portfolio designed to showcase professional
-skills, education, projects, experience, achievements, and contact information.
+A modern, responsive personal portfolio designed to showcase
+Hashim Khan's professional profile, education, skills, projects,
+experience, achievements, and contact information.
 </p>
 
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=<FRIEND_NAME>+Portfolio;Modern+Responsive+Personal+Website;Projects+%7C+Skills+%7C+Education;Professional+Profile+%7C+Contact;Designed+for+Recruiters+%26+Opportunities"
-  alt="<FRIEND_NAME> Portfolio"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Hashim+Khan+Portfolio;Modern+Responsive+Personal+Website;Skills+%7C+Projects+%7C+Education;Professional+Profile+%7C+Experience;Building+a+Strong+Professional+Presence"
+  alt="Hashim Khan Portfolio"
 />
 
 <br/><br/>
 
-<a href="<LIVE_PORTFOLIO_URL>">
+<a href="https://friend-protfolio.vercel.app/">
   <img
     src="https://img.shields.io/badge/LIVE%20PORTFOLIO-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Live Portfolio"
-  />
-</a>
-
-<a href="<LINKEDIN_URL>">
-  <img
-    src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="<GITHUB_URL>">
-  <img
-    src="https://img.shields.io/badge/GITHUB-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
+    alt="Hashim Khan Portfolio"
   />
 </a>
 
@@ -54,244 +41,219 @@ skills, education, projects, experience, achievements, and contact information.
 
 # 📌 Overview
 
-This repository contains the source code for **<FRIEND_NAME>'s personal portfolio website**.
+**Friend Portfolio** is the personal portfolio website of **Hashim Khan**.
 
-The portfolio is designed to create a strong professional online presence and provide recruiters, employers, collaborators, and other visitors with a clear overview of:
+The website is designed to create a professional online presence and provide recruiters, employers, collaborators, and visitors with a clear overview of Hashim's background and work.
 
-- Professional identity
-- Technical skills
+The portfolio highlights:
+
+- Professional profile
 - Education
-- Experience
+- Skills
 - Projects
+- Experience
 - Achievements
-- Certifications
 - Resume / CV
 - Contact information
-- Professional social profiles
+- Professional background
 
-The website focuses on a clean, responsive, modern, and recruiter-friendly experience.
+🌐 **Live Website:**  
+https://friend-protfolio.vercel.app/
 
 ---
 
 # 🎯 Purpose
 
-The portfolio is built around a simple professional journey:
+The main purpose of Friend Portfolio is to present Hashim Khan's professional profile in a clear and modern format.
 
 ```text
-Visitor Opens Portfolio
-        ↓
+Visitor
+   ↓
+Hashim Khan
+   ↓
 Professional Introduction
-        ↓
-About & Background
-        ↓
+   ↓
+About
+   ↓
 Skills
-        ↓
-Projects / Experience
-        ↓
-Education
-        ↓
+   ↓
+Projects
+   ↓
+Education / Experience
+   ↓
 Resume
-        ↓
+   ↓
 Contact
 ```
 
-The objective is to help visitors quickly understand:
+The website helps visitors quickly understand:
 
 ```text
-Who is this person?
+Who is Hashim Khan?
         ↓
-What does he do?
+What is his professional background?
         ↓
 What skills does he have?
         ↓
-What has he built?
+What projects has he worked on?
         ↓
-What is his background?
+What is his education?
         ↓
-How can I contact him?
+How can he be contacted?
 ```
 
 ---
 
-# ✨ Core Features
+# ✨ Features
 
-- Modern portfolio homepage
+- Modern personal portfolio
+- Responsive interface
 - Professional hero section
 - About section
 - Skills showcase
 - Project showcase
 - Education section
-- Professional experience
-- Certifications / achievements
+- Experience section
+- Achievement presentation
 - Resume / CV access
-- Contact section
-- LinkedIn integration
-- GitHub integration
+- Contact information
+- Social profile integration
 - Responsive navigation
-- Mobile-friendly layouts
-- Modern animations
+- Mobile-friendly layout
 - Clean visual hierarchy
-- Recruiter-focused content structure
-
----
-
-# 🧑‍💼 Professional Profile
-
-The portfolio introduces the developer through a clear professional identity.
-
-Example:
-
-```text
-Name     : <FRIEND_NAME>
-
-Role     : <PROFESSIONAL_TITLE>
-
-Location : <LOCATION>
-
-Focus    : <CAREER_FOCUS>
-```
-
-This section should remain short and immediately communicate the person's professional direction.
+- Recruiter-friendly presentation
+- Production deployment on Vercel
 
 ---
 
 # 🏠 Hero Section
 
-The Hero section acts as the first introduction to the portfolio.
+The Hero section introduces **Hashim Khan** immediately when visitors open the website.
 
 It can include:
 
-- Professional name
-- Job title
+- Name
+- Professional title
 - Short introduction
 - Profile image
 - Resume button
-- Contact CTA
-- GitHub link
-- LinkedIn link
+- Contact button
+- Social links
 
-Example flow:
+Typical structure:
 
 ```text
-<FRIEND_NAME>
-      ↓
-<PROFESSIONAL_TITLE>
-      ↓
-Short Professional Introduction
-      ↓
-View Projects | Download CV | Contact
+Hashim Khan
+     ↓
+Professional Title
+     ↓
+Short Introduction
+     ↓
+View Projects
+     ↓
+Resume / Contact
 ```
 
 ---
 
-# 👤 About Section
+# 👤 About
 
-The About section provides a concise professional background.
+The About section provides a concise professional introduction.
 
-It can explain:
+It can cover:
 
+- Background
 - Education
 - Career interests
 - Technical interests
 - Professional goals
-- Development background
 - Important achievements
 
-The section should avoid unnecessary personal information and focus on details relevant to professional opportunities.
+The objective is to provide useful professional context without overwhelming visitors with unnecessary information.
 
 ---
 
-# 🛠️ Skills Section
+# 🛠️ Skills
 
-Skills can be grouped into clear technical categories.
+The Skills section presents Hashim Khan's abilities in an easy-to-scan format.
 
-Example:
+A recommended structure is:
 
 ```text
-Technical Skills
+Skills
 │
 ├── Programming
-│   └── ...
 │
-├── Frontend
-│   └── ...
+├── Technical Skills
 │
-├── Backend
-│   └── ...
+├── Software / Tools
 │
-├── Databases
-│   └── ...
+├── Engineering Skills
 │
-└── Tools
-    └── ...
+└── Professional Skills
 ```
 
-This organization makes the portfolio easier for recruiters to scan.
+Only skills that accurately represent Hashim's experience should be listed.
 
 ---
 
-# 🚀 Projects Section
+# 🚀 Projects
 
-The portfolio includes a dedicated project showcase.
+The portfolio includes a dedicated area for showcasing projects.
 
 Each project can contain:
 
 ```text
 Project Name
      ↓
-Short Description
+Description
      ↓
-Technology Stack
+Technology / Tools
      ↓
 Key Features
      ↓
-GitHub / Live Demo
+Project Link
 ```
 
-Recommended project information:
+A strong project card should provide:
 
 - Project title
-- Problem being solved
 - Short description
-- Technology stack
-- Key features
-- GitHub repository
-- Live website
-- Project status
+- Technologies used
+- Main functionality
+- Project image
+- GitHub link if available
+- Live demo if available
 
 ---
 
-# 💼 Experience Section
+# 💼 Experience
 
-Professional experience can include:
+The Experience section can present professional or practical experience.
 
-- Job title
-- Company
-- Employment type
-- Duration
-- Location
-- Responsibilities
-- Technologies
-- Achievements
-
-Example structure:
+Recommended format:
 
 ```text
-<ROLE>
-<COMPANY>
+Role / Position
 
-<Date Range>
+Company / Organization
+
+Duration
 
 • Responsibility
-• Responsibility
-• Technology / Achievement
+• Achievement
+• Technology / Skill
 ```
+
+This helps recruiters understand practical experience quickly.
 
 ---
 
-# 🎓 Education Section
+# 🎓 Education
 
-Education can be presented clearly:
+Education should be presented clearly.
+
+Example structure:
 
 ```text
 Degree
@@ -301,196 +263,140 @@ Location
 Relevant Achievement
 ```
 
-This section should remain easy to scan and avoid unnecessary academic detail unless relevant.
+The focus should remain on information relevant to Hashim's professional profile.
 
 ---
 
 # 🏆 Achievements
 
-The portfolio can highlight achievements such as:
+The portfolio can highlight verified achievements such as:
 
-- Academic distinctions
-- Project awards
-- Competitions
+- Academic achievements
 - Certifications
-- Leadership experience
+- Project achievements
+- Competitions
+- Leadership roles
 - Technical accomplishments
 
-Only verified achievements should be included.
+Only real and verifiable achievements should be included.
 
 ---
 
 # 📜 Certifications
 
-Certifications can contain:
+Certifications can include:
 
-- Certificate title
-- Issuing organization
-- Date
-- Verification link
-- Credential ID if appropriate
+```text
+Certificate Name
+
+Issuing Organization
+
+Issue Date
+
+Credential / Verification Link
+```
 
 ---
 
 # 📄 Resume / CV
 
-The portfolio should provide easy access to the professional CV.
+Friend Portfolio can provide visitors with easy access to Hashim Khan's CV.
 
-Typical interaction:
+Typical workflow:
 
 ```text
 Visitor
    ↓
-Resume / CV Button
+Resume Button
    ↓
-View or Download CV
+View / Download CV
 ```
 
-The CV should remain synchronized with portfolio information.
+The information in the portfolio and CV should remain consistent.
 
 ---
 
-# 📧 Contact Section
+# 📧 Contact
 
-The Contact section allows visitors to reach the portfolio owner.
+The Contact section provides a simple way for recruiters and other visitors to reach Hashim Khan.
 
-Possible contact options:
+Possible contact options include:
 
 - Email
 - LinkedIn
 - GitHub
 - Contact form
-- Professional social links
-
-Example:
-
-```text
-Visitor
-   ↓
-Contact Section
-   ↓
-Choose Contact Method
-   ↓
-Send Message / Open Profile
-```
+- Other professional profiles
 
 ---
 
-# 🏗️ Application Architecture
+# 🏗️ Website Architecture
 
 ```text
-┌───────────────────────────────────────────┐
-│             PORTFOLIO WEBSITE             │
-│                                           │
-│                Frontend                   │
-└──────────────────┬────────────────────────┘
-                   │
-                   ▼
-┌───────────────────────────────────────────┐
-│               UI SECTIONS                 │
-│                                           │
-│ Hero • About • Skills • Projects          │
-│ Experience • Education • Contact          │
-└──────────────────┬────────────────────────┘
-                   │
-                   ▼
-┌───────────────────────────────────────────┐
-│             EXTERNAL LINKS                │
-│                                           │
-│ GitHub • LinkedIn • Resume • Email        │
-└───────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│              FRIEND PORTFOLIO                │
+│                                              │
+│                 Hashim Khan                  │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│               PORTFOLIO UI                   │
+│                                              │
+│ Hero • About • Skills • Projects             │
+│ Experience • Education • Contact             │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│             PROFESSIONAL LINKS               │
+│                                              │
+│ Resume • Email • LinkedIn • GitHub           │
+└──────────────────────────────────────────────┘
 ```
 
 ---
 
 # 📂 Project Structure
 
-A typical structure may look like:
+A typical portfolio project may follow a structure similar to:
 
 ```text
-src/
+friend-portfolio/
 │
-├── components/
+├── src/
 │   │
-│   ├── Navbar
-│   ├── Hero
-│   ├── About
-│   ├── Skills
-│   ├── Projects
-│   ├── Experience
-│   ├── Education
-│   ├── Contact
-│   └── Footer
+│   ├── components/
+│   │   ├── Navbar
+│   │   ├── Hero
+│   │   ├── About
+│   │   ├── Skills
+│   │   ├── Projects
+│   │   ├── Experience
+│   │   ├── Education
+│   │   ├── Contact
+│   │   └── Footer
+│   │
+│   ├── assets/
+│   │
+│   ├── App.jsx
+│   │
+│   └── main.jsx
 │
-├── assets/
+├── public/
 │
-├── data/
+├── package.json
 │
-├── App.jsx
-│
-└── main.jsx
+└── README.md
 ```
 
-The actual structure can vary depending on the technologies used in the project.
-
----
-
-# 🛠️ Technology Stack
-
-Update this section according to the actual implementation.
-
-## Frontend
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=react,js,html,css"
-    alt="React JavaScript HTML CSS"
-  />
-</p>
-
-Possible technologies:
-
-- React
-- JavaScript
-- HTML5
-- CSS3
-
----
-
-## Styling
-
-If used:
-
-```text
-Tailwind CSS
-CSS Modules
-Custom CSS
-```
-
-Only keep the technologies that actually exist in the project.
-
----
-
-## Development Tools
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel"
-    alt="Git GitHub VS Code NPM Vercel"
-  />
-</p>
-
-- Git
-- GitHub
-- VS Code
-- npm
-- Vercel
+The actual structure may differ depending on the implementation.
 
 ---
 
 # 📱 Responsive Design
 
-The portfolio is designed to provide a consistent experience across:
+Friend Portfolio is designed to provide a usable experience across:
 
 ```text
 Desktop
@@ -499,40 +405,40 @@ Tablet
 Mobile
 ```
 
-Responsive areas should include:
+Important responsive areas include:
 
-- Navigation
+- Navbar
 - Hero
 - Profile image
-- About
-- Skill cards
+- Text content
+- Skills
 - Project cards
-- Experience
 - Education
-- Contact form
+- Experience
+- Contact
 - Footer
 
 ---
 
 # 🎨 UI/UX Principles
 
-The portfolio follows several design principles:
+The portfolio focuses on:
 
 ```text
 Professional
-     +
-Clean
-     +
+      +
 Modern
-     +
+      +
+Clean
+      +
 Responsive
-     +
+      +
 Accessible
-     +
+      +
 Easy to Navigate
 ```
 
-The interface should emphasize content rather than unnecessary visual complexity.
+The goal is to present Hashim Khan's information clearly without unnecessary interface complexity.
 
 ---
 
@@ -541,14 +447,13 @@ The interface should emphasize content rather than unnecessary visual complexity
 Recommended accessibility practices include:
 
 - Semantic HTML
-- Accessible headings
-- Descriptive image alt text
-- Keyboard-accessible navigation
-- Visible focus states
-- Good color contrast
+- Logical heading hierarchy
+- Keyboard-friendly navigation
+- Visible focus indicators
 - Accessible buttons
+- Image alt text
+- Appropriate color contrast
 - Proper form labels
-- Meaningful link text
 
 ---
 
@@ -558,61 +463,76 @@ Important performance considerations include:
 
 - Optimized images
 - Lightweight assets
-- Lazy loading where appropriate
-- Minimized JavaScript
-- Fast initial render
-- Optimized production build
-- Responsive image sizing
+- Responsive images
 - Efficient animations
+- Minimal unnecessary JavaScript
+- Optimized production build
+- Fast page loading
 
 ---
 
 # 🔎 SEO
 
-A professional portfolio should be optimized for the person's name and professional title.
+Friend Portfolio can be optimized for Hashim Khan's professional identity.
 
-Example search targets:
+Useful search terms can include:
 
 ```text
-<FRIEND_NAME>
+Hashim Khan
 
-<FRIEND_NAME> Portfolio
+Hashim Khan Portfolio
 
-<FRIEND_NAME> <PROFESSIONAL_TITLE>
+Hashim Khan Professional Portfolio
 
-<FRIEND_NAME> Developer
+Hashim Khan Developer
 
-<FRIEND_NAME> Engineer
+Hashim Khan Engineer
 ```
 
-Recommended SEO elements:
+The exact professional keyword should match Hashim's real role.
 
-- Unique page title
+Important SEO elements include:
+
+- Page title
 - Meta description
 - Canonical URL
 - Open Graph metadata
-- Twitter metadata
-- Semantic headings
-- Accessible image alt text
-- Person structured data
+- Semantic HTML
+- Correct heading structure
+- Image alt attributes
 - `robots.txt`
 - `sitemap.xml`
+- Person structured data
 
 ---
 
-# 🔍 Example Metadata
+# 🔍 Suggested SEO Title
 
-Example:
+```text
+Hashim Khan | Professional Portfolio
+```
 
-```html
-<title>
-  <FRIEND_NAME> | <PROFESSIONAL_TITLE>
-</title>
+If his exact profession is known, use something stronger such as:
 
-<meta
-  name="description"
-  content="<FRIEND_NAME> is a <PROFESSIONAL_TITLE>. Explore projects, skills, experience, education and contact information."
-/>
+```text
+Hashim Khan | Electrical Engineer
+```
+
+or:
+
+```text
+Hashim Khan | Software Engineer
+```
+
+Use only the title that accurately matches his profession.
+
+---
+
+# 📝 Suggested Meta Description
+
+```text
+Explore the professional portfolio of Hashim Khan, including his skills,
+education, projects, experience, achievements, resume, and contact information.
 ```
 
 ---
@@ -625,10 +545,10 @@ Clone the repository:
 git clone <REPOSITORY_URL>
 ```
 
-Open the project:
+Open the project directory:
 
 ```bash
-cd <PROJECT_DIRECTORY>
+cd friend-portfolio
 ```
 
 Install dependencies:
@@ -647,7 +567,7 @@ npm run dev
 
 # 🏗️ Production Build
 
-Create a production build:
+Create an optimized production build:
 
 ```bash
 npm run build
@@ -657,39 +577,44 @@ npm run build
 
 # 🚀 Deployment
 
-The portfolio can be deployed through platforms such as **Vercel**.
+Friend Portfolio is deployed on **Vercel**.
 
-Typical deployment flow:
+Production website:
+
+```text
+https://friend-protfolio.vercel.app/
+```
+
+Typical deployment architecture:
 
 ```text
 GitHub Repository
         ↓
-Vercel
+      Vercel
         ↓
-Build
+Production Build
         ↓
-Production Website
+Friend Portfolio
 ```
 
 ---
 
-# 🧪 Pre-Deployment Checklist
+# 🧪 Deployment Checklist
 
-Before production:
+Before publishing an update:
 
 ```text
 [ ] Production build succeeds
+[ ] Homepage loads correctly
 [ ] Navigation works
-[ ] Desktop layout tested
-[ ] Tablet layout tested
-[ ] Mobile layout tested
-[ ] Project links work
-[ ] LinkedIn link works
-[ ] GitHub link works
+[ ] Desktop tested
+[ ] Tablet tested
+[ ] Mobile tested
+[ ] Projects open correctly
 [ ] Resume works
 [ ] Contact information is correct
+[ ] Images load correctly
 [ ] No console errors
-[ ] Images optimized
 [ ] SEO metadata configured
 [ ] No private information exposed
 ```
@@ -698,63 +623,41 @@ Before production:
 
 # 🔮 Future Improvements
 
-Potential improvements include:
+Potential future improvements include:
 
 - Dark / light mode
+- Better animations
 - Project case studies
-- Advanced animations
 - Blog section
-- Testimonials
-- Contact form integration
+- Dynamic project data
+- CMS integration
 - Analytics
+- Contact form integration
 - Better SEO
-- Structured data
 - Accessibility improvements
 - Performance monitoring
-- CMS integration
-- Dynamic project management
-- Interactive project demos
+- Social preview cards
+- More interactive project presentations
 
 ---
 
-# 🔗 Links
-
-| Resource | Link |
-|---|---|
-| 🌐 Portfolio | `<LIVE_PORTFOLIO_URL>` |
-| 💼 LinkedIn | `<LINKEDIN_URL>` |
-| 💻 GitHub | `<GITHUB_URL>` |
-| 📧 Email | `<EMAIL_ADDRESS>` |
-
----
-
-# 👨‍💻 Portfolio Owner
+# 👨‍💼 Portfolio Owner
 
 <div align="center">
 
-## <FRIEND_NAME>
+## Hashim Khan
 
-### <PROFESSIONAL_TITLE>
+### Professional Portfolio
 
 <p>
-<SHORT_PROFESSIONAL_DESCRIPTION>
+Showcasing professional skills, education, projects,
+experience, achievements, and career development.
 </p>
 
-<a href="<LIVE_PORTFOLIO_URL>">
+<a href="https://friend-protfolio.vercel.app/">
   <img
-    src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"
-  />
-</a>
-
-<a href="<LINKEDIN_URL>">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
-</a>
-
-<a href="<GITHUB_URL>">
-  <img
-    src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Hashim Khan Portfolio"
   />
 </a>
 
@@ -762,18 +665,33 @@ Potential improvements include:
 
 ---
 
-# 🔎 <FRIEND_NAME> — Professional Portfolio
+# 🔗 Links
 
-**<FRIEND_NAME> Portfolio** is a modern responsive personal portfolio designed to showcase professional skills, education, experience, projects, achievements, resume information, and contact details.
+| Resource | Link |
+|---|---|
+| 🌐 Live Portfolio | [friend-protfolio.vercel.app](https://friend-protfolio.vercel.app/) |
+| 💼 LinkedIn | `<ADD_HASHIM_LINKEDIN>` |
+| 💻 GitHub | `<ADD_HASHIM_GITHUB>` |
+| 📧 Email | `<ADD_HASHIM_EMAIL>` |
 
-The project demonstrates modern frontend development, responsive web design, component-based architecture, user-interface design, deployment, professional branding, and portfolio SEO.
+---
+
+# 🔎 Hashim Khan — Friend Portfolio
+
+**Friend Portfolio** is the personal portfolio website of **Hashim Khan**, designed to present his professional background, skills, education, projects, achievements, experience, resume, and contact information through a modern and responsive web experience.
+
+The project demonstrates practical frontend development, responsive web design, user-interface design, professional branding, deployment, accessibility considerations, and portfolio SEO.
 
 ---
 
 <div align="center">
 
-# 🚀 <FRIEND_NAME> Portfolio
+# 🚀 Friend Portfolio
 
-### Learn • Build • Grow • Create
+### Hashim Khan
+
+### Learn • Build • Grow • Achieve
+
+🌐 **https://friend-protfolio.vercel.app/**
 
 </div>
